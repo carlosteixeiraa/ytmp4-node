@@ -1,0 +1,16 @@
+{
+  "name": "ytmp4-node",
+  "version": "1.0.0",
+  "description": "Faça download de videos do youtube com o node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Carlos Teixeira",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-console": "^1.0.11",
+    "ytdl-core": "^0.18.1"
+  }
+}
